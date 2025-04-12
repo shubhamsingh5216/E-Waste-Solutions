@@ -1,12 +1,24 @@
-# React + Vite
+# 🌱 E-Waste Solutions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based platform built to promote **responsible e-waste management**, help users locate nearby recycling facilities, request pickups, and learn about the environmental impact of electronic waste.
 
-Currently, two official plugins are available:
+## 🌍 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**E-Waste Solutions** aims to raise awareness about the growing problem of electronic waste by offering a user-friendly solution for responsible disposal. The website includes an AI-powered assistant, educational content, and essential tools to empower users in taking eco-friendly actions.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🗺️ **Find Nearest E-Waste Facility** by entering your zip code
+- 🚚 **Request E-Waste Pickup** from your home or office
+- 🤖 **AI Assistant** to answer user queries about e-waste, recycling, and regulations
+- 📰 **Latest News & Articles** on recycling technologies and environmental policies
+- ❓ **FAQs Section** for common questions and educational support
+- 📘 **Resources** covering e-waste guides, recycling processes, data security, and more
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **AI Integration**: Custom logic or third-party chatbot (OpenAI / Dialogflow – optional)
+- **Build Tool**: Vite
+- **Hosting**: Vercel
